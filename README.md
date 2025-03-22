@@ -27,11 +27,9 @@ I'm a passionate developer with a focus on building innovative and impactful pro
 
 Here are some of the projects I've worked on:
 
-- **[Portfolio Template](https://github.com/Oluwatise-Ajayi/OdunPortfolio)**:is a Template portfolio website designed to showcase my skills, projects, and professional journey. It features a clean and modern design, making it easy for visitors to learn more about my work and get in touch.
-   [Live Demo](https://lexballer.netlify.app/)
+- **[Portfolio Template](https://github.com/Oluwatise-Ajayi/OdunPortfolio)**:is a Template portfolio website designed to showcase my skills, projects, and professional journey. It features a clean and modern design, making it easy for visitors to learn more about my work and get in touch. [Live Demo](https://lexballer.netlify.app/)
   
-- **[Blogsite](https://github.com/Oluwatise-Ajayi/Blogsite)**:is a web application designed for creating, managing, and sharing blog posts. It provides a user-friendly interface for authors to publish their content and for readers to explore and interact with posts,with user based authentication and search functionality.
--  [Live Demo](https://blogsite-demo.onrender.com/blogs)
+- **[Blogsite](https://github.com/Oluwatise-Ajayi/Blogsite)**:is a web application designed for creating, managing, and sharing blog posts. It provides a user-friendly interface for authors to publish their content and for readers to explore and interact with posts,with user based authentication and search functionality. [Live Demo](https://blogsite-demo.onrender.com/blogs)
   
 - **[Saddle point finder](https://github.com/Oluwatise-Ajayi/Saddle_point_finder)**:This project contains a Python script that identifies saddle points in a given payoff matrix. A saddle point is a point in a matrix that is the minimum in its row and the maximum in its column.
 
